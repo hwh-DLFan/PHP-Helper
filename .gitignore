@@ -5,6 +5,11 @@
 *.cpp
 *.cxx
 
+# Headers
+*.h
+*.hpp
+*.hxx
+
 # Compiled Object files
 *.slo
 *.lo
@@ -29,6 +34,12 @@
 *.la
 *.a
 *.lib
+
+# Other files
+*.sln
+*.vcxproj
+*.vcxproj.users
+*.vcxprog.filters
 
 # Executables
 *.exe
