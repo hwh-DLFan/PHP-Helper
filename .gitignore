@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# Source files
+*.cpp
+*.cxx
+
 # Compiled Object files
 *.slo
 *.lo
